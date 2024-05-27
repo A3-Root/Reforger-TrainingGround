@@ -1,0 +1,19 @@
+[## Export settings ##]
+scaling enabled = False
+tiling enabled = 0
+tile resolution = 4096
+real terrain size (m) = 32736
+
+[## Terrain Details ##]
+grid size = 4096 x 4096
+cell size (m) = 7.9921875
+terrain size (m) = 32736
+satmap size (px) = 32736 x 32736
+resolution (m/px) = 1.0
+
+[## Enfusion Heightmap settings ##]
+minimum height = -22
+maximum height = 782
+height range = 804.0
+terrain lowered to 0m = False
+
