@@ -3,3 +3,8 @@ Removed SATMAP - Use my 400MB Edit Instead
 Adjusted Height from [-22, 782] to [0, 402]
 
 Translate road coords by: (-267243.0, -4290293.0)
+
+
+
+No offset:
+Self Aligned w/ No Offset:
