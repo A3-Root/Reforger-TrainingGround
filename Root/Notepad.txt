@@ -7,4 +7,8 @@ Translate road coords by: (-267243.0, -4290293.0)
 
 
 No offset:
+9723.801, 0, 10295.609
+
 Self Aligned w/ No Offset:
+1822.521, 0, 1937.134
+Scale: 0.169
