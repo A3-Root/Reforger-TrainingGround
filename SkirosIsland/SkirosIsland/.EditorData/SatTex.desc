@@ -1,0 +1,7 @@
+SatGenDescClass {
+ FileName "T:/Game Files/Arma Reforger/Terrain/My Edits/gtt_satmap_edited.png"
+ sRGBOutput 0
+ RenderRoads 1
+ Interpolation bilinear
+ RoadsAA "8x"
+}
