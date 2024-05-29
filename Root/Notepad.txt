@@ -1,14 +1,14 @@
-Removed SATMAP - Use my 400MB Edit Instead
+Skiros Island:
+38.882767, 24.517254
 
-Adjusted Height from [-22, 782] to [0, 402]
+Area:
+32512m x 32512m = 32.512 km x 32.512 km
 
-Translate road coords by: (-267243.0, -4290293.0)
+Resolution: 
+4096
 
+Minimum height: -19m
+Maximum height: 783m
+height range: 802m
 
-
-No offset:
-9723.801, 0, 10295.609
-
-Self Aligned w/ No Offset:
-1822.521, 0, 1937.134
-Scale: 0.169
+Translate road coords by: (-267643.0, -4290449.0)
