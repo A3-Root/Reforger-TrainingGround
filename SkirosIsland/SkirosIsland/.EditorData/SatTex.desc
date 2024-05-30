@@ -1,7 +1,0 @@
-SatGenDescClass {
- FileName "T:/Game Files/Arma Reforger/Terrain/Git/Reforger-TrainingGround/QGIS/gtt_export/gtt_satmap.png"
- sRGBOutput 0
- RenderRoads 1
- Interpolation bilinear
- RoadsAA "8x"
-}
