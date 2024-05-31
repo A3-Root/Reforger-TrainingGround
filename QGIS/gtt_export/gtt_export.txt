@@ -12,8 +12,8 @@ satmap size (px) = 24320 x 24320
 resolution (m/px) = 1.0
 
 [## Enfusion Heightmap settings ##]
-minimum height = -8
+minimum height = -7
 maximum height = 363
-height range = 371.0
+height range = 370.0
 terrain lowered to 0m = 2
 

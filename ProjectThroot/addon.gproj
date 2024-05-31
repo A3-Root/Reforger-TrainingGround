@@ -1,0 +1,8 @@
+GameProject {
+ ID "ProjectThroot"
+ GUID "617D439F351F0119"
+ TITLE "ProjectThroot"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}

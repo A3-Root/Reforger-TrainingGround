@@ -134,7 +134,31 @@ Possible Terrain Sizes:
 
 
 Area:
-24.320 * 24.320
+Skiros
+24.320 * 24.320 km
+
+Translate road coords by: (-349338.0, -9512356.0)
+
+[## Export settings ##]
+scaling enabled = False
+tiling enabled = False
+tile resolution = 4096
+real terrain size (m) = 24320
+
+[## Terrain Details ##]
+grid size = 4096 x 4096
+cell size (m) = 5.9375
+terrain size (m) = 24320
+satmap size (px) = 24320 x 24320
+resolution (m/px) = 1.0
+
+[## Enfusion Heightmap settings ##]
+minimum height = -7
+maximum height = 363
+height range = 370.0
+terrain lowered to 0m = 2
+
+
 
 
 Resolution: 
