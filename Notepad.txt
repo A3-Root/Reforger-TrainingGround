@@ -67,6 +67,9 @@ Possible Terrain Sizes:
 8064 x 8064 = 16.128 x 16.128 km = 260.1124 km2
 8192 x 8192 = 16.384 x 16.384 km = 268.4355 km2
 8320 x 8320 = 16.64 x 16.64 km = 276.8896 km2
+
+=== HeightMap & SatMap Error (Completes with clicking retries and ignoring) ===
+
 8448 x 8448 = 16.896 x 16.896 km = 285.4748 km2
 8576 x 8576 = 17.152 x 17.152 km = 294.1911 km2
 8704 x 8704 = 17.408 x 17.408 km = 303.0385 km2
@@ -117,6 +120,9 @@ Possible Terrain Sizes:
 14464 x 14464 = 28.928 x 28.928 km = 836.8292 km2
 14592 x 14592 = 29.184 x 29.184 km = 851.7059 km2
 14720 x 14720 = 29.44 x 29.44 km = 866.7136 km2
+
+=== HeightMap & SatMap Error (Crashes always) ===
+
 14848 x 14848 = 29.696 x 29.696 km = 881.8524 km2
 14976 x 14976 = 29.952 x 29.952 km = 897.1223 km2
 15104 x 15104 = 30.208 x 30.208 km = 912.5233 km2
