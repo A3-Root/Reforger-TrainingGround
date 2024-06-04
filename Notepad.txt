@@ -140,7 +140,7 @@ Possible Terrain Sizes:
 
 
 Area:
-Skiros
+Seychells
 24.320 * 24.320 km
 
 Translate road coords by: (-349338.0, -9512356.0)

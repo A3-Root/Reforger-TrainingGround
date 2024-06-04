@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{BA49198E1BDE06D6}Configs/ForestGenerator/SCR_SHPPrefabDataList_ForestGenerator.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass PS5 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}
